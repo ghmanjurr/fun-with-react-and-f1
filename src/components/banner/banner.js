@@ -5,7 +5,7 @@ const Banner = () => {
     const toggleExpand = () => setExpand(prevExpand => !prevExpand)
     
     return <div className="banner">
-        <button onClick={toggleExpand}>F1TV banner  <span>+</span></button>
+        <button onClick={toggleExpand}>F1TV banner  <span>{expand ? '-' : '+'}</span></button>
         { expand && <div className="bannerLink">Link to F1tv website</div>}
     </div>
 }
