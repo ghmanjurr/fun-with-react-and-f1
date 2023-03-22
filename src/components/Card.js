@@ -11,5 +11,7 @@ const Card = ({name, team, driverNum, tag, id}) => {
                 <p>{tag}</p>
             </div>
         </div>
-    )
+    );
 }
+
+export default Card;
