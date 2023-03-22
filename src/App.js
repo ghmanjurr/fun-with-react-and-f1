@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Banner from './components/banner/banner';
+import CardList from './components/CardList';
 
 function App() {
   return (
