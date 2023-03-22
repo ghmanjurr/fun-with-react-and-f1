@@ -8,9 +8,9 @@ export const drivers = [
     },
     {
         id: 2,
-        name: 'Sergio Perez'
-        tag: 'PER'
-        driverNum: '11'
+        name: 'Sergio Perez',
+        tag: 'PER',
+        driverNum: '11',
         team: 'Red Bull'        
     },
     {
@@ -22,9 +22,9 @@ export const drivers = [
     },
     {
         id: 4,
-        name: 'Carlos Sainz'
-        tag: 'SAI'
-        driverNum: '55'
+        name: 'Carlos Sainz',
+        tag: 'SAI',
+        driverNum: '55',
         team: 'Ferrari'        
     },   
     {
@@ -36,9 +36,9 @@ export const drivers = [
     },
     {
         id: 6,
-        name: 'Lance Stroll'
-        tag: 'STR'
-        driverNum: '18'
+        name: 'Lance Stroll',
+        tag: 'STR',
+        driverNum: '18',
         team: 'Aston Martin'        
     },
     {
@@ -50,9 +50,9 @@ export const drivers = [
     },
     {
         id: 8,
-        name: 'George Russell'
-        tag: 'RUS'
-        driverNum: '63'
+        name: 'George Russell',
+        tag: 'RUS',
+        driverNum: '63',
         team: 'Mercedes'        
     },
     {
